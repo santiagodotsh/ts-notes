@@ -1,5 +1,7 @@
 # TypeScript Notes
 
+TypeScript is a typed language that extends JavaScript, enhancing tooling and scalability.
+
 ## Contents
 
 - [Types](./1_types.ts)
